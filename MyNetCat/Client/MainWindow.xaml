@@ -1,0 +1,26 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MyNetCat" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="20" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Column="1" Grid.Row="0">
+            <Button Content="Ping" Click="Ping" />
+            <Button Content="Send File" Click="SendFile" />
+        </StackPanel>
+        <TextBox Grid.Column="0" Grid.Row="1" Name="Input" KeyDown="Input_OnKeyDown" />
+        <Button Grid.Column="1" Grid.Row="1" Content="Send" Click="Send" />
+        <TextBlock Grid.Column="0" Grid.Row="0" Name="Terminal" />
+
+    </Grid>
+</Window>

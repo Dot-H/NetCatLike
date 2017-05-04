@@ -1,0 +1,10 @@
+C:\Users\alexa_000\Desktop\MyNetCat\LibNetCat\bin\Debug\LibNetCat.dll
+C:\Users\alexa_000\Desktop\MyNetCat\LibNetCat\bin\Debug\LibNetCat.pdb
+C:\Users\alexa_000\Desktop\MyNetCat\LibNetCat\obj\Debug\LibNetCat.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\Desktop\MyNetCat\LibNetCat\obj\Debug\LibNetCat.dll
+C:\Users\alexa_000\Desktop\MyNetCat\LibNetCat\obj\Debug\LibNetCat.pdb
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\LibNetCat\bin\Debug\LibNetCat.dll
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\LibNetCat\bin\Debug\LibNetCat.pdb
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\LibNetCat\obj\Debug\LibNetCat.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\LibNetCat\obj\Debug\LibNetCat.dll
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\LibNetCat\obj\Debug\LibNetCat.pdb

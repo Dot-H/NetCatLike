@@ -1,0 +1,5 @@
+Basic netcat like made in c# in 03-2016.
+
+Usage:
+1. Run the program as Server
+2. Run the program as ClientCLI

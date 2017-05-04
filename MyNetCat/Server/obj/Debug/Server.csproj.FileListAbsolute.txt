@@ -1,0 +1,8 @@
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\Server\bin\Debug\Server.exe.config
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\Server\bin\Debug\Server.exe
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\Server\bin\Debug\Server.pdb
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\Server\bin\Debug\LibNetCat.dll
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\Server\bin\Debug\LibNetCat.pdb
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\Server\obj\Debug\Server.exe
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\Server\obj\Debug\Server.pdb

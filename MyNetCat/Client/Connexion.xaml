@@ -1,0 +1,18 @@
+﻿<Window x:Class="Client.Connexion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        d:DesignHeight="150" d:DesignWidth="300"
+        Title="Connexion">
+
+    <StackPanel>
+        <TextBlock FontSize="20">Addresse du serveur :</TextBlock>
+        <TextBox Name="Addr">127.0.0.1</TextBox>
+        <TextBlock FontSize="20">Port de connexion :</TextBlock>
+        <TextBox Name="Port">4242</TextBox>
+        <Button Click="Button_Click">Valider</Button>
+    </StackPanel>
+</Window>

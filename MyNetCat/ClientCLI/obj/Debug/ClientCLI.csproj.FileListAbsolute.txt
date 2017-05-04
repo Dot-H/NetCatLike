@@ -1,0 +1,7 @@
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\ClientCLI\bin\Debug\ClientCLI.exe.config
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\ClientCLI\bin\Debug\ClientCLI.exe
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\ClientCLI\bin\Debug\ClientCLI.pdb
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\ClientCLI\bin\Debug\LibNetCat.dll
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\ClientCLI\bin\Debug\LibNetCat.pdb
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\ClientCLI\obj\Debug\ClientCLI.exe
+C:\Users\Alexandre Bernard\Dropbox\TP Prog\TPCS11-Chat\MyNetCat\ClientCLI\obj\Debug\ClientCLI.pdb
